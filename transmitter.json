@@ -1,0 +1,17 @@
+type: PowerBlock
+name: "transmitter"
+description: sends messages to other sectors.
+catgory: logic 
+
+insulated: true
+configurable:true
+hasPower: true
+buildVisibility: shown
+size: 2
+health: 400
+research: {
+    parent: mechanical-drill
+requirements: [
+copper/100
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "courier-mod",
+  "displayName": "Courier Nod",
+  "author": "[#8738ff[]]WayfarerMedia[[]]",
+  "description": "Courier Intersector Comunication and Transport ",
+  "version": ".alpha",
+  "minGameVersion": "105",
+  "dependencies": [],
+  "hidden": false,
+  "java": false
+
+
+  
+}

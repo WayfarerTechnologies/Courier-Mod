@@ -1,0 +1,18 @@
+type: UnitFactory
+name: Garage
+description: Produces light ground upport units
+size: 2
+buildVisibility: shown
+
+plans: [
+  {
+    unit: truck
+    time: 160
+    requirements: [
+      copper/10
+    ]
+  }
+]
+
+research: transmitter
+category: units

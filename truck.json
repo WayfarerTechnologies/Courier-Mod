@@ -1,0 +1,17 @@
+type: mech
+name: Truck
+description: Gathers nearby resources and returns them to a depot or core.
+health: 2000
+hitSize: 8
+canDrown: false
+armor: 10
+speed: 0.5
+buildSpeed: 1.4
+rotateSpeed: 2.4
+commandLimit: 8
+singleTarget: true
+researchCostMultiplier: 0.01
+research: mechanical-drill
+controller: MinerAI
+mineTier: 3
+mineSpeed: 5
